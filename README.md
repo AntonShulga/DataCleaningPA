@@ -23,7 +23,7 @@ According to the Course assignment inital data was transformed in the following 
 - test and train enriched data sets were merged together into single data set
 - activity labels in the data set were converted from integer to factor format trough mapping with activity data set
 - variable names in the data set were renamed trough mapping with features names data set
-- all the varaibles from the data set were removed except for means and standard deviations dirivatives of the basic features
+- all the varaibles from the data set were removed except for means and standard deviations dirivatives of the basic features (PLEASE NOTE: this results in only 66 variables selected, containing "mean()" and "std()" in names, so "meanFreq" features etc are NOT included)
 - new data set (called all_means) was created that has the same structure but containing only averages of all features by each subject and each activity
 - the resulted final data set is saved into the file "all_means.txt"
 

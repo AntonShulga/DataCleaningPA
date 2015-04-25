@@ -25,7 +25,7 @@ if (length(grep(path, dir()))>0) { ## go on only if data dir exists
         names(train_set) <- Features_names[,2]
         names(test_set) <- Features_names[,2]
                 
-        ## merge test and train sets into single set
+        ## merge test and train sets into single data set
         test_set <- cbind(subj_test, y_test[,2], test_set)
         train_set <- cbind(subj_train, y_train[,2], train_set)
         names(train_set)[1] <- "Subject"
