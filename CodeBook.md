@@ -30,17 +30,16 @@ You will find the resulted data set in the file all_means.txt included in this r
 Please find below description of the variabile:
 
 1. Subject
-	Identifier of person that provided measurements data 
-		1..30
+	- Identifier of person that provided measurements data (range is 1..30)
 
 2. Activity
-	 Identifier of activity class for wicth the measurements are provided
-		01. WALKING
-		02. WALKING_UPSTAIRS
-		03. WALKING_DOWNSTAIRS
-		04. SITTING
-		05. STANDING
-		06. LAYING
+	 - Identifier of activity class for wicth the measurements are provided
+		-- 01. WALKING
+		-- 02. WALKING_UPSTAIRS
+		-- 03. WALKING_DOWNSTAIRS
+		-- 04. SITTING
+		-- 05. STANDING
+		-- 06. LAYING
 
 3. tBodyAcc-mean()-X _MEAN
 	- Average across observations of mean body accelerometer value for X axis (units: normalized and bounded within [-1,1])  
