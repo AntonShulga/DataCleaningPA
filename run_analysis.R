@@ -64,7 +64,7 @@ if (length(grep(path, dir()))>0) { ## go on only if data dir exists
        
         ## set correct column names and sort the data set
         names(all_means)[1:2] <- names(all_set)[1:2]
-        names(all_means)[-(1:2)] <- sapply(names(all_set)[-(1:2)], paste, "_MEAN")
+        names(all_means)[-(1:2)] <- sapply(names(all_set)[-(1:2)], paste, "_MEAN", sep = "")
         all_means <- arrange(all_means, Subject, Activity)
         
         ## write a data set into a file

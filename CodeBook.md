@@ -41,200 +41,200 @@ Below is description of the variabiles:
 		05. STANDING 
 		06. LAYING 
 		
-3. tBodyAcc-mean()-X _MEAN
+3. tBodyAcc-mean()-X_MEAN
 	- Average across observations of mean body accelerometer value for X axis (units: normalized and bounded within [-1,1])  
 
-4. tBodyAcc-mean()-Y _MEAN
+4. tBodyAcc-mean()-Y_MEAN
 	- Average across observations of mean body accelerometer value for Y axis (units: normalized and bounded within [-1,1])   
 
-5. tBodyAcc-mean()-Z _MEAN
+5. tBodyAcc-mean()-Z_MEAN
 	- Average across observations of mean body accelerometer value for Z axis (units: normalized and bounded within [-1,1])   
 
-6. tGravityAcc-mean()-X _MEAN 
+6. tGravityAcc-mean()-X_MEAN 
 	- Average across observations of mean gravity accelerometer value for X axis (units: normalized and bounded within [-1,1])  
 
-7. tGravityAcc-mean()-Y _MEAN 
+7. tGravityAcc-mean()-Y_MEAN 
 	- Average across observations of mean gravity accelerometer value for Y axis (units: normalized and bounded within [-1,1])  
 
-8. tGravityAcc-mean()-Z _MEAN 
+8. tGravityAcc-mean()-Z_MEAN 
 	- Average across observations of mean gravity accelerometer value for Z axis (units: normalized and bounded within [-1,1])  
 
-9. tBodyAccJerk-mean()-X _MEAN 
+9. tBodyAccJerk-mean()-X_MEAN 
 	- Average across observations of mean of Jerk signals for body accelerometer value for X axis (units: normalized and bounded within [-1,1])  
 
-10. tBodyAccJerk-mean()-Y _MEAN 
+10. tBodyAccJerk-mean()-Y_MEAN 
 	- Average across observations of mean of Jerk signals for body accelerometer value for Y axis (units: normalized and bounded within [-1,1])  
 
-11. tBodyAccJerk-mean()-Z _MEAN
+11. tBodyAccJerk-mean()-Z_MEAN
 	- Average across observations of mean of Jerk signals for body accelerometer value for Z axis (units: normalized and bounded within [-1,1])  
  
-12. tBodyGyro-mean()-X _MEAN 
+12. tBodyGyro-mean()-X_MEAN 
 	- Average across observations of mean body angular velocity value for X axis (units: normalized and bounded within [-1,1])  
 
-13. tBodyGyro-mean()-Y _MEAN 
+13. tBodyGyro-mean()-Y_MEAN 
 	- Average across observations of mean body angular velocity value for Y axis (units: normalized and bounded within [-1,1])  
 
-14. tBodyGyro-mean()-Z _MEAN
+14. tBodyGyro-mean()-Z_MEAN
 	- Average across observations of mean body angular velocity value for Z axis (units: normalized and bounded within [-1,1])  
 
-15. tBodyGyroJerk-mean()-X _MEAN 
+15. tBodyGyroJerk-mean()-X_MEAN 
 	- Average across observations of mean of Jerk signals for body angular velocity value for X axis (units: normalized and bounded within [-1,1])  
 
-16. tBodyGyroJerk-mean()-Y _MEAN 
+16. tBodyGyroJerk-mean()-Y_MEAN 
 	- Average across observations of mean of Jerk signals for body angular velocity value for Y axis (units: normalized and bounded within [-1,1])  
 
-17. tBodyGyroJerk-mean()-Z _MEAN 
+17. tBodyGyroJerk-mean()-Z_MEAN 
 	- Average across observations of mean of Jerk signals for body angular velocity value for Z axis (units: normalized and bounded within [-1,1])  
 
-18. tBodyAccMag-mean() _MEAN 
+18. tBodyAccMag-mean()_MEAN 
 	- Average across observations of mean of magnitute for  body accelerometer value (units: normalized and bounded within [-1,1])  
 
-19. tGravityAccMag-mean() _MEAN 
+19. tGravityAccMag-mean()_MEAN 
 	- Average across observations of mean of magnitute for  gravity accelerometer value (units: normalized and bounded within [-1,1])  
 
-20. tBodyAccJerkMag-mean() _MEAN
+20. tBodyAccJerkMag-mean()_MEAN
 	- Average across observations of mean of magnitute for  Jerk signals for body accelerometer value (units: normalized and bounded within [-1,1])  
 
-21. tBodyGyroMag-mean() _MEAN 
+21. tBodyGyroMag-mean()_MEAN 
 	- Average across observations of mean of magnitute for  body angular velocity value (units: normalized and bounded within [-1,1])  
 
-22. tBodyGyroJerkMag-mean() _MEAN 
+22. tBodyGyroJerkMag-mean()_MEAN 
 	- Average across observations of mean of magnitute for  Jerk signals for body angular velocity value (units: normalized and bounded within [-1,1])  
 
-23. fBodyAcc-mean()-X _MEAN 
+23. fBodyAcc-mean()-X_MEAN 
 	- Average across observations of mean of Fast Fourier Transformation for body accelerometer value for X axis (units: normalized and bounded within [-1,1])  
 
-24. fBodyAcc-mean()-Y _MEAN 
+24. fBodyAcc-mean()-Y_MEAN 
 	- Average across observations of mean of Fast Fourier Transformation for body accelerometer value for Y axis (units: normalized and bounded within [-1,1])  
 
-25. fBodyAcc-mean()-Z _MEAN 
+25. fBodyAcc-mean()-Z_MEAN 
 	- Average across observations of mean of Fast Fourier Transformation for body accelerometer value for Z axis (units: normalized and bounded within [-1,1])  
 
-26. fBodyAccJerk-mean()-X _MEAN 
+26. fBodyAccJerk-mean()-X_MEAN 
 	- Average across observations of mean of Fast Fourier Transformation for Jerk signals for body accelerometer value for X axis (units: normalized and bounded within [-1,1])  
 
-27. fBodyAccJerk-mean()-Y _MEAN 
+27. fBodyAccJerk-mean()-Y_MEAN 
 	- Average across observations of mean of Fast Fourier Transformation for Jerk signals for body accelerometer value for Y axis (units: normalized and bounded within [-1,1])  
 
-28. fBodyAccJerk-mean()-Z _MEAN 
+28. fBodyAccJerk-mean()-Z_MEAN 
 	- Average across observations of mean of Fast Fourier Transformation for Jerk signals for body accelerometer value for Z axis (units: normalized and bounded within [-1,1])  
 
-29. fBodyGyro-mean()-X _MEAN 
+29. fBodyGyro-mean()-X_MEAN 
 	- Average across observations of mean of Fast Fourier Transformation for body angular velocity value for X axis (units: normalized and bounded within [-1,1])  
 
-30. fBodyGyro-mean()-Y _MEAN 
+30. fBodyGyro-mean()-Y_MEAN 
 	- Average across observations of mean of Fast Fourier Transformation for body angular velocity value for Y axis (units: normalized and bounded within [-1,1])  
 
-31. fBodyGyro-mean()-Z _MEAN 
+31. fBodyGyro-mean()-Z_MEAN 
 	- Average across observations of mean of Fast Fourier Transformation for body angular velocity value for Z axis (units: normalized and bounded within [-1,1])  
 
-32. fBodyAccMag-mean() _MEAN 
+32. fBodyAccMag-mean()_MEAN 
 	- Average across observations of mean of Fast Fourier Transformation for magnitute for body accelerometer value (units: normalized and bounded within [-1,1])  
 
-33. fBodyBodyAccJerkMag-mean() _MEAN 
+33. fBodyBodyAccJerkMag-mean()_MEAN 
 	- Average across observations of mean of Fast Fourier Transformation for magnitute for Jerk signals for body accelerometer value (units: normalized and bounded within [-1,1])  
 
-34. fBodyBodyGyroMag-mean() _MEAN 
+34. fBodyBodyGyroMag-mean()_MEAN 
 	- Average across observations of mean of Fast Fourier Transformation for magnitute for body angular velocity value (units: normalized and bounded within [-1,1])  
 
-35. fBodyBodyGyroJerkMag-mean() _MEAN 
+35. fBodyBodyGyroJerkMag-mean()_MEAN 
 	- Average across observations of mean of Fast Fourier Transformation for magnitute for Jerk signals for body angular velocity value (units: normalized and bounded within [-1,1])  
 
-36. tBodyAcc-std()-X _MEAN 
+36. tBodyAcc-std()-X_MEAN 
 	- Average across observations of standard deviation of body accelerometer value for X axis (units: normalized and bounded within [-1,1])  
 
-37. tBodyAcc-std()-Y _MEAN 
+37. tBodyAcc-std()-Y_MEAN 
 	- Average across observations of standard deviation of body accelerometer value for Y axis (units: normalized and bounded within [-1,1])  
 
-38. tBodyAcc-std()-Z _MEAN 
+38. tBodyAcc-std()-Z_MEAN 
 	- Average across observations of standard deviation of body accelerometer value for Z axis (units: normalized and bounded within [-1,1])  
 
-39. tGravityAcc-std()-X _MEAN 
+39. tGravityAcc-std()-X_MEAN 
 	- Average across observations of standard deviation of gravity accelerometer value for X axis (units: normalized and bounded within [-1,1])  
 
-40. tGravityAcc-std()-Y _MEAN 
+40. tGravityAcc-std()-Y_MEAN 
 	- Average across observations of standard deviation of gravity accelerometer value for Y axis (units: normalized and bounded within [-1,1])  
 
-41. tGravityAcc-std()-Z _MEAN 
+41. tGravityAcc-std()-Z_MEAN 
 	- Average across observations of standard deviation of gravity accelerometer value for Z axis (units: normalized and bounded within [-1,1])  
 
-42. tBodyAccJerk-std()-X _MEAN 
+42. tBodyAccJerk-std()-X_MEAN 
 	- Average across observations of standard deviation of Jerk signals for body accelerometer value for X axis (units: normalized and bounded within [-1,1])  
 
-43. tBodyAccJerk-std()-Y _MEAN 
+43. tBodyAccJerk-std()-Y_MEAN 
 	- Average across observations of standard deviation of Jerk signals for body accelerometer value for Y axis (units: normalized and bounded within [-1,1])  
 
-44. tBodyAccJerk-std()-Z _MEAN 
+44. tBodyAccJerk-std()-Z_MEAN 
 	- Average across observations of standard deviation of Jerk signals for body accelerometer value for Z axis (units: normalized and bounded within [-1,1])  
 
-45. tBodyGyro-std()-X _MEAN 
+45. tBodyGyro-std()-X_MEAN 
 	- Average across observations of standard deviation of body angular velocity value for X axis (units: normalized and bounded within [-1,1])  
 
-46. tBodyGyro-std()-Y _MEAN 
+46. tBodyGyro-std()-Y_MEAN 
 	- Average across observations of standard deviation of body angular velocity value for Y axis (units: normalized and bounded within [-1,1])  
 
-47. tBodyGyro-std()-Z _MEAN 
+47. tBodyGyro-std()-Z_MEAN 
 	- Average across observations of standard deviation of body angular velocity value for Z axis (units: normalized and bounded within [-1,1])  
 
-48. tBodyGyroJerk-std()-X _MEAN 
+48. tBodyGyroJerk-std()-X_MEAN 
 	- Average across observations of standard deviation of Jerk signals for body angular velocity value for X axis (units: normalized and bounded within [-1,1])  
 
-49. tBodyGyroJerk-std()-Y _MEAN 
+49. tBodyGyroJerk-std()-Y_MEAN 
 	- Average across observations of standard deviation of Jerk signals for body angular velocity value for Y axis (units: normalized and bounded within [-1,1])  
 
-50. tBodyGyroJerk-std()-Z _MEAN 
+50. tBodyGyroJerk-std()-Z_MEAN 
 	- Average across observations of standard deviation of Jerk signals for body angular velocity value for Z axis (units: normalized and bounded within [-1,1])  
 
-51. tBodyAccMag-std() _MEAN 
+51. tBodyAccMag-std()_MEAN 
 	- Average across observations of standard deviation of magnitute for body accelerometer value (units: normalized and bounded within [-1,1])  
 
-52. tGravityAccMag-std() _MEAN 
+52. tGravityAccMag-std()_MEAN 
 	- Average across observations of standard deviation of magnitute for gravity accelerometer value (units: normalized and bounded within [-1,1])  
 
-53. tBodyAccJerkMag-std() _MEAN 
+53. tBodyAccJerkMag-std()_MEAN 
 	- Average across observations of standard deviation of magnitute for Jerk signals for body accelerometer value (units: normalized and bounded within [-1,1])  
 
-54. tBodyGyroMag-std() _MEAN 
+54. tBodyGyroMag-std()_MEAN 
 	- Average across observations of standard deviation of magnitute for body angular velocity value (units: normalized and bounded within [-1,1])  
 
-55. tBodyGyroJerkMag-std() _MEAN 
+55. tBodyGyroJerkMag-std()_MEAN 
 	- Average across observations of standard deviation of magnitute for Jerk signals for body angular velocity value (units: normalized and bounded within [-1,1])  
 
-56. fBodyAcc-std()-X _MEAN 
+56. fBodyAcc-std()-X_MEAN 
 	- Average across observations of standard deviation of Fast Fourier Transformation for body accelerometer value for X axis (units: normalized and bounded within [-1,1])  
 
-57. fBodyAcc-std()-Y _MEAN 
+57. fBodyAcc-std()-Y_MEAN 
 	- Average across observations of standard deviation of Fast Fourier Transformation for body accelerometer value for Y axis (units: normalized and bounded within [-1,1])  
 
-58. fBodyAcc-std()-Z _MEAN 
+58. fBodyAcc-std()-Z_MEAN 
 	- Average across observations of standard deviation of Fast Fourier Transformation for body accelerometer value for Z axis (units: normalized and bounded within [-1,1])  
 
-59. fBodyAccJerk-std()-X _MEAN 
+59. fBodyAccJerk-std()-X_MEAN 
 	- Average across observations of standard deviation of Fast Fourier Transformation for Jerk signls for body accelerometer value for X axis (units: normalized and bounded within [-1,1])  
 
-60. fBodyAccJerk-std()-Y _MEAN 
+60. fBodyAccJerk-std()-Y_MEAN 
 	- Average across observations of standard deviation of Fast Fourier Transformation for Jerk signls for body accelerometer value for Y axis (units: normalized and bounded within [-1,1])  
 
-61. fBodyAccJerk-std()-Z _MEAN 
+61. fBodyAccJerk-std()-Z_MEAN 
 	- Average across observations of standard deviation of Fast Fourier Transformation for Jerk signls for body accelerometer value for Z axis (units: normalized and bounded within [-1,1])  
 
-62. BodyGyro-std()-X _MEAN 
+62. BodyGyro-std()-X_MEAN 
 	- Average across observations of standard deviation of Fast Fourier Transformation for body angular velocity value for X axis (units: normalized and bounded within [-1,1])  
 
-63. fBodyGyro-std()-Y _MEAN 
+63. fBodyGyro-std()-Y_MEAN 
 	- Average across observations of standard deviation of Fast Fourier Transformation for body angular velocity value for Y axis (units: normalized and bounded within [-1,1])  
 
-64. fBodyGyro-std()-Z _MEAN 
+64. fBodyGyro-std()-Z_MEAN 
 	- Average across observations of standard deviation of Fast Fourier Transformation for body angular velocity value for Z axis (units: normalized and bounded within [-1,1])  
 
-65. fBodyAccMag-std() _MEAN 
+65. fBodyAccMag-std()_MEAN 
 	- Average across observations of standard deviation of Fast Fourier Transformation for magnitute for body accelerometer value (units: normalized and bounded within [-1,1])  
 
-66. fBodyBodyAccJerkMag-std() _MEAN 
+66. fBodyBodyAccJerkMag-std()_MEAN 
 	- Average across observations of standard deviation of Fast Fourier Transformation for magnitute for Jerk signals for body accelerometer value (units: normalized and bounded within [-1,1])  
 
-67. fBodyBodyGyroMag-std() _MEAN 
+67. fBodyBodyGyroMag-std()_MEAN 
 	- Average across observations of standard deviation of Fast Fourier Transformation for magnitute for body angular velocity value (units: normalized and bounded within [-1,1])  
 
-68. fBodyBodyGyroJerkMag-std() _MEAN
+68. fBodyBodyGyroJerkMag-std()_MEAN
 	- Average across observations of standard deviation of Fast Fourier Transformation for magnitute for Jerk signals for body angular velocity value (units: normalized and bounded within [-1,1])  
