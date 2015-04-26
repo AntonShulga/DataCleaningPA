@@ -33,16 +33,14 @@ Below is description of the variabiles:
 	- Identifier of person that provided measurements data (range is 1..30)
 
 2. Activity
-	 - Identifier of activity class for wicth the measurements are provided 
-		(
-		01. WALKING, 
-		02. WALKING_UPSTAIRS, 
-		03. WALKING_DOWNSTAIRS, 
-		04. SITTING, 
-		05. STANDING, 
+	 - Identifier of activity class for wicth the measurements are provided:
+		01. WALKING 
+		02. WALKING_UPSTAIRS 
+		03. WALKING_DOWNSTAIRS 
+		04. SITTING 
+		05. STANDING 
 		06. LAYING 
-		)
-
+		
 3. tBodyAcc-mean()-X _MEAN
 	- Average across observations of mean body accelerometer value for X axis (units: normalized and bounded within [-1,1])  
 
